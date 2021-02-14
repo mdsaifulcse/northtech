@@ -1,7 +1,7 @@
 @extends('website.layout.app')
 
 @section('title')
-    Coursee list | Tekblock
+    Coursee list | North Tech
 @endsection
 
 @section('page-title')

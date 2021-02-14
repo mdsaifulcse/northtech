@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="8f23ad2a-681e-4ada-a533-d38e28f69b21" name="NorthTech" url="http://northtech.io">
+        <fileTransfer host="northtech.io" port="21" rootFolder="/public_html/northtech">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>

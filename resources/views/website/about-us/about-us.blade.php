@@ -1,7 +1,7 @@
 @extends('website.layout.app')
 
 @section('title')
-    About Tekblock |
+    About | North Tech
      @endsection
 
 @section('page-title')

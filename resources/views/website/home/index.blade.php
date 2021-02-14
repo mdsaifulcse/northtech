@@ -2,7 +2,7 @@
 
 
 @section('title')
-    Tekblock | Training Center
+    North Tech | Home
 @endsection
 
 

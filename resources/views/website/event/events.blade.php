@@ -1,7 +1,7 @@
 @extends('website.layout.app')
 
 @section('title')
-    All Events | Tekblock
+    All Events | North Tech
 @endsection
 
 @section('page-title')

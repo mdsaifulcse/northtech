@@ -1,7 +1,7 @@
 @extends('website.layout.app')
 
 @section('title')
-    Contact with Tekblock
+    Contact with North Tech
 @endsection
 
 @section('page-title')

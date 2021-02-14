@@ -1,7 +1,7 @@
 @extends('website.layout.app')
 
 @section('title')
-    {{$singleEvent->title}} | Tekblock
+    {{$singleEvent->title}} | North Tech
 @endsection
 
 @section('page-title')

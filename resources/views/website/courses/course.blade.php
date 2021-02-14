@@ -1,7 +1,7 @@
 @extends('website.layout.app')
 
 @section('title')
-    Course list | Tekblock
+    Course list | North Tech
 @endsection
 
 @section('page-title')
